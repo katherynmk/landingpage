@@ -1,4 +1,4 @@
-Katheryn Knutson, hereby disclaims all copyright interest in the program “Azure Resume” (Katheryn's Resume) written by Katheryn Knutson.
+Katheryn Knutson, hereby disclaims all copyright interest in the program “Katheryns portfolio”  written by Katheryn Knutson.
 
 !!!Note- much of the code has been heavily influenced by W3Schools CSS tutorial page!!!
 
